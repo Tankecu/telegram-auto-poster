@@ -1,0 +1,6 @@
+ Telegram AutoPoster
+Type: Telegram Bot
+
+Description: A bot that automatically posts messages to a Telegram channel on a schedule.
+
+Stack: Python, telethon, cron, SQLite
